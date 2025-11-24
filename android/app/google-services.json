@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27800772734",
+    "project_id": "mmaflutterpipelinegithub",
+    "storage_bucket": "mmaflutterpipelinegithub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27800772734:android:41ca99d4c256e6059af82f",
+        "android_client_info": {
+          "package_name": "com.example.mma_flutter_pipeline_poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YC9z3CT6GaCSUD52mN3GcVhCgkwlf4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
